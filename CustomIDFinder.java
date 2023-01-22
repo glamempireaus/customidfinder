@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 public class Main
 {
 
-	private static final String WORDS_FILE = "four.txt";
+	private static final String WORDS_FILE = "words.txt";
 	private static final String PROXIES_FILE = "proxies.txt";
 	private static final String OUTPUT_FILE = "output.txt";
 
