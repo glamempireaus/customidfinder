@@ -1,9 +1,9 @@
 # Custom ID Finder
-Uses proxy connections + multithreading to check if a list of social media ids are taken. By default, checks https://steamcommunity.com/id/[id]
+uses proxy connections + multithreading to check if a list of social media ids are taken. By default, checks https://steamcommunity.com/id/[id]
 
-This is a proof of concept. It could work with any website.
+this is a proof of concept. Iit could work with any website.
 
-Requires:
+requires:
 
-- List of words to use (words.txt)
-- List of socks proxy ip:ports (proxies.txt)
+- list of words to use (words.txt)
+- list of socks proxy ip:ports (proxies.txt)
