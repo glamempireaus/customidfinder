@@ -1,4 +1,4 @@
-# Custom ID Finder
+# customidfinder
 uses proxy connections + multithreading to check if a list of social media ids are taken. By default, checks https://steamcommunity.com/id/[id]
 
 requires:
